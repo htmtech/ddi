@@ -12,7 +12,7 @@ import shutil
 from .models import Entry
 from .forms import EntryForm
 from django.http import HttpResponseRedirect
-from scipy.misc import imread
+
 import matplotlib.cbook as cbook
 
 # Create your views here.
